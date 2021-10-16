@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Coronapp</title>
+</head>
+
+<body>
+  <header>
+    <a href="index.html" class="logo">
+      <img src="./assets/logo/logo.png" class="logo_img" alt="Logo de coronapp" title="Logo de coronapp" />
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#">inicio</a></li>
+        <li><a href="#">caracteristicas</a></li>
+        <li><a href="#">apoyo</a></li>
+        <li><a href="#">contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="hero">
+    <article class="hero__texto">
+      <h1>Cuida la salud de tu familia.</h1>
+      <p>
+        Todo en un destino para consultas de salud de COVID-19. Consulte a más
+        de 10,000 trabajadores de la salud sobre sus inquietudes.
+      </p>
+      <button>EMPEZAR</button>
+    </article>
+
+    <article class="hero__img">
+      <img src="./assets/imagenes/doctor_image.png" alt="imagen doctor" />
+    </article>
+  </section>
+  <section class="mantente-seguro">
+    <article class="mantente-seguro__card">
+      <img src="./assets/imagenes/mask_group.png" alt="imagen de chica" />
+      <h3>Enfermedad por el nuevo coronavirus</h3>
+      <p>
+        La COVID-19 afecta de distintas maneras en función de cada persona.
+      </p>
+    </article>
+    <article class="mantente-seguro__texto">
+      <h3>Mantente seguro con Coronapp.</h3>
+      <p>
+        Soporte 24x7 y plataforma móvil fácil de usar para llevar la atención
+        médica a su alcance. Regístrese y sea parte de la nueva cultura de la
+        salud.
+      </p>
+      <button>EMPEZAR</button>
+    </article>
+  </section>
+  <section class="expertos">
+    <article>
+      <div>
+        <h3>2m</h3>
+        <p>Usuarios</p>
+      </div>
+      <div>
+        <h3>78</h3>
+        <p>Países</p>
+      </div>
+      <div>
+        <h3>10,000+</h3>
+        <p>Expertos medicos</p>
+      </div>
+    </article>
+    <article class="habla_con_expertos">
+      <h3> Habla con los
+        expertos.</h3>
+      <p>Reserve citas o envíe consultas a miles de foros sobre problemas de salud y prevención contra el Corona Virus. </p>
+    <button>Caracteristicas</button>
+    
+  </article>
+  <article class="video">
+      <img src="./assets/imagenes/video.png" alt="imagen de video">
+      
+    </article>
+  </section>
+  <section class="cuidado_de_salud">
+    <article class="cuidado_de_salud">
+      <h3>Cuidado de la salud 
+        al alcance de tu mano.</h3>
+        <p>Llevando funciones de atención médica premium a tu alcance. </p>
+    </article>
+    <article class="comprobador_de_simtomas">
+      <img src="./assets/imagenes/vector1.png" alt="simbolo de persona">
+      <h3>Comprobador de síntomas</h3>
+      <p>Compruebe si está infectado por COVID-19 con nuestro Comprobador de síntomas</p>
+    </article>
+    <article class="soporte_medico">
+      <img src="./assets/imagenes/vector2.png" alt="imagen de medico">
+      <h3>Soporte médico 24x7</h3>
+      <p>Consulte con más de 10,000 trabajadores de la salud acerca de sus inquietudes.</p>
+    </article>
+    <article class="cindiciones">
+      <img src="./assets/imagenes/vector3.png" alt="imagen de corazon">
+      <h3>Condiciones</h3>
+      <p>Llevando funciones de atención médica premium a tu alcance.</p>
+    </article>
+  </section>
+</body>
+
+</html>
